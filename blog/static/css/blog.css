@@ -1,5 +1,9 @@
+body {
+  background-color: #7ac0cc;
+}
+
 .page-header {
-  background-color: #c25100;
+  background-color: #008299;
   margin-top: 0;
   padding: 20px 20px 20px 40px;
 }
@@ -8,7 +12,7 @@
 .page-header h1 a,
 .page-header h1 a:visited,
 .page-header h1 a:active {
-  color: #ffffff;
+  color: #fff;
   font-size: 36pt;
   text-decoration: none;
 }
@@ -52,5 +56,5 @@ h4 {
 
 .post h2 a,
 .post h2 a:visited {
-  color: #000000;
+  color: #fff;
 }
